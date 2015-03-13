@@ -6,7 +6,7 @@ For world domination
 Trumps human!
 
 ## Part 1 
-
+Make histogram and comment if skewed
 Detect red spots
 
 ## Part 2
